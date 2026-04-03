@@ -2,7 +2,7 @@
 
 # thelema
 
-Cyber Security / Purple Team / Web Dev / OSINT
+Cyber Security / Purple Team / Network Architech / Web Dev / OSINT
 
 ---
 
